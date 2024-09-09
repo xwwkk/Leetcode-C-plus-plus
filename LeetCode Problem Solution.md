@@ -1,4 +1,4 @@
-# LeetCode Problem Solution (数据来自leetcode-py)
+# LeetCode Problem Solution (数据来自Leetcode-py)
 
 ## 01. 数组
 
